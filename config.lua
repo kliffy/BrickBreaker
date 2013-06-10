@@ -1,9 +1,8 @@
 application = {
 	content = {
-		width = 640,
-		height = 960,
-		scale = 'zoomStretch',
-		xAlign = 'left',
-		yAlign = 'top'
+		width = 320,
+	  height = 480,
+	  scale = "letterbox",
+	  fps = 60
 	}
 }
